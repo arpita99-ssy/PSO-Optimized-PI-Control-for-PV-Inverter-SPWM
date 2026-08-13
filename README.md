@@ -34,3 +34,4 @@ The `RefGen` MATLAB Function is used for reference generation based on the measu
 - Compatible MATLAB/Simulink version required for the Specialized Power Systems blocks used in the original model
 
 > **Compatibility Note:** The original model uses Simscape Electrical Specialized Power Systems blocks. These blocks were removed in newer MATLAB releases, including R2025b. The model may therefore require conversion using the Simscape Electrical Specialized Power Systems Conversion Assistant before simulation in newer MATLAB versions.
+Tested Environment: This project was developed and successfully simulated using MATLAB 2024.
