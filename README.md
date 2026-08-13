@@ -28,7 +28,7 @@ The `RefGen` MATLAB Function is used for reference generation based on the measu
 
 ## Software Requirements
 
-- MATLAB
+- MATLAB 2024
 - Simulink
 - Simscape Electrical
 - Compatible MATLAB/Simulink version required for the Specialized Power Systems blocks used in the original model
